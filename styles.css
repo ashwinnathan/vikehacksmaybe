@@ -32,7 +32,7 @@ text-align: center;
 nav {
   position:fixed;
 }
-#schedule, #about, #sponsors, #signup {
+.aThing {
   padding: 30px 10vw;
 }
 body {
